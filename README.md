@@ -4,9 +4,9 @@ Want to meet interesting people, learn new things, and maybe find a job?
 
 In-person meetups are where it's at!
 
-I've curated the gems in the list below. Every one is a real, verified in-person event/meetup/conference in the greater Phoenix metro area, updated weekly. Am I missing any? Let me know!
+I've curated local gems in the list below, updated weekly. Each one is a real, verified in-person event/meetup/conference in the greater Phoenix metro area. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-02-03)
+(Last update: 2024-02-05)
 
 ## February 2024
 
@@ -17,6 +17,7 @@ I've curated the gems in the list below. Every one is a real, verified in-person
 | Monday, 2024-02-05 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/298302527/) | Desert Ridge Marketplace, Phoenix | Free |
 | Wednesday, 2024-02-07 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-02-08 | [Venture Café: Business Essentials Unleashed](https://venturecafephoenix.org/event/business-essentials-unleashed/) | 850 N. 5th St., Phoenix | Free |
+| Friday, 2024-02-09 | [Entrepreneurs Happy Hour](https://www.linkedin.com/events/7152011701771493376/) | Culinary Dropout, Tempe | Free |
 | Friday/Saturday, 2024-02-09/10 | [WordCamp Phoenix](https://phoenix.wordcamp.org/2024/) | Phoenix College, Phoenix | Admission: $60-150 |
 | Wednesday, 2024-02-14 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-02-15 | [Venture Café: The Future of Aerospace](https://venturecafephoenix.org/event/the-future-of-aerospace/) | 850 N. 5th St., Phoenix | Free |
@@ -26,5 +27,7 @@ I've curated the gems in the list below. Every one is a real, verified in-person
 | Wednesday, 2024-02-21 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa| Free |
 | Wednesday, 2024-02-21 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/298934389/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-02-22 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Tuesday, 2024-02-27 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcdbkc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-02-28 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
+| Wednesday, 2024-02-28 | [Phoenix AI Devs: Applied Gen AI for Software Development](https://www.meetup.com/phx-ai-devs/events/298983126/) | Tempe Public Library, Tempe | Free |
 | Thursday, 2024-02-29 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
