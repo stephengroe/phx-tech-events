@@ -6,7 +6,7 @@ In-person meetups are where it's at!
 
 I've curated local gems in the list below, updated weekly. Each one is a real, verified in-person event/meetup/conference in the greater Phoenix metro area. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-02-05)
+(Last update: 2024-02-06)
 
 ## February 2024
 
@@ -27,6 +27,7 @@ I've curated local gems in the list below, updated weekly. Each one is a real, v
 | Wednesday, 2024-02-21 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa| Free |
 | Wednesday, 2024-02-21 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/298934389/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-02-22 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Saturday, 2024-02-24 | [Software Developers of the East Valley: Coffee and Code](https://www.meetup.com/software-developers-of-the-east-valley-gilbert-queen-creek/events/299012816/) | 3000 E Ray Rd., Gilbert | Free |
 | Tuesday, 2024-02-27 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcdbkc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-02-28 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-02-28 | [Phoenix AI Devs: Applied Gen AI for Software Development](https://www.meetup.com/phx-ai-devs/events/298983126/) | Tempe Public Library, Tempe | Free |
