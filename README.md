@@ -8,7 +8,7 @@ I've curated local gems by month and update with new events at least weekly. Eac
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-02-09)
+(Last update: 2024-02-13)
 
 ## February 2024
 
@@ -23,7 +23,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Friday/Saturday, 2024-02-09/10 | [WordCamp Phoenix](https://phoenix.wordcamp.org/2024/) | Phoenix College, Phoenix | Admission: $60-150 |
 | Wednesday, 2024-02-14 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-02-15 | [Venture Café: The Future of Aerospace](https://venturecafephoenix.org/event/the-future-of-aerospace/) | 850 N. 5th St., Phoenix | Free |
-| Friday/Saturday, 2024-02-16/17 | [CactusCon](https://www.cactuscon.com/) | Mesa Convention Center, Mesa | Admission: $25-100 (some free tickets) |
+| Friday/Saturday, 2024-02-16/17 | [CactusCon](https://www.cactuscon.com/) | Mesa Convention Center, Mesa | Admission: $25-100 |
 | Saturday, 2024-02-17 | [Phoenix AI Engineers: Meet, share projects, talk shop](https://www.meetup.com/ai-engineer/events/298701910/) | E. Indian School Rd., Phoenix | Free |
 | Tuesday, 2024-02-20 | [Phoenix Algorithms and Coding: A* Algorithm](https://www.meetup.com/phoenix-algorithms-and-coding/events/298874390/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-02-21 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa| Free |
@@ -34,6 +34,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Saturday, 2024-02-24 | [Girls in Tech Phoenix: Hackathon](https://phoenix.girlsintech.org/git-phx-hackathon-save-the-date/) | SkySong, Scottsdale | TBA | 
 | Tuesday, 2024-02-27 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcdbkc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-02-28 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
+| Wednesday, 2024-02-28 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/299143379/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-02-28 | [Phoenix AI Devs: Applied Gen AI for Software Development](https://www.meetup.com/phx-ai-devs/events/298983126/) | Tempe Public Library, Tempe | Free |
 | Thursday, 2024-02-29 |[Venture Café: Innovation in National Defense](https://venturecafephoenix.org/event/innovation-in-national-defense/) | 850 N. 5th St., Phoenix | Free |
 
