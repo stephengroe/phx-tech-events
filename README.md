@@ -8,7 +8,7 @@ I've curated local gems by month and update with new events at least weekly. Eac
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-02-13)
+(Last update: 2024-02-18)
 
 ## February 2024
 
@@ -31,7 +31,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-02-21 | [AZ Tech Council: after5 Tech Mixer](https://www.aztechcouncil.org/event/feb-after5-tech-mixer-hosted-by-10-to-1-public-relations/) | 7975 N. Hayden Rd., Scottsdale | Members: free; non-members: $20 |
 | Thursday, 2024-02-22 |[Venture Café: Cybersecurity Essentials](https://venturecafephoenix.org/event/cybersecurity-essentials/) | 850 N. 5th St., Phoenix | Free |
 | Saturday, 2024-02-24 | [Software Developers of the East Valley: Coffee and Code](https://www.meetup.com/software-developers-of-the-east-valley-gilbert-queen-creek/events/299012816/) | 3000 E Ray Rd., Gilbert | Free |
-| Saturday, 2024-02-24 | [Girls in Tech Phoenix: Hackathon](https://phoenix.girlsintech.org/git-phx-hackathon-save-the-date/) | SkySong, Scottsdale | TBA | 
+| Saturday, 2024-02-24 | [Girls in Tech Phoenix: No-Code Hackathon](https://www.eventbrite.com/e/2nd-squirrel365-no-code-hackathon-tickets-812035248287) | SkySong, Scottsdale | Free | 
 | Tuesday, 2024-02-27 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcdbkc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-02-28 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-02-28 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/299143379/) | HeatSync Labs, Mesa | Free |
