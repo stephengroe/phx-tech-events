@@ -27,6 +27,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-03-21 |[Venture Café: Greater Phoenix – CONNECTED 2024](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
 | Tuesday, 2024-03-26 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcfbjc/) | 51 W 3rd St., Tempe | Free |
 | Tuesday, 2024-03-26 | [How to Grow Your Business with AI and Automation](https://www.meetup.com/business-ai-automation/events/299614627/) (I'm hosting this one!) | Kiln Coworking, Gilbert | Free |
+| Tuesday, 2024-03-26 |[AI Salon Phoenix](https://lu.ma/bj12dchs)| ASU SkySong, Scottsdale | Free |
 | Wednesday, 2024-03-27 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcfbkc/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-03-27 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/299640882/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-03-27 | [AZ Tech Council: after5 Tech Mixer](https://www.aztechcouncil.org/event/2024-march-after5-tech-mixer/) | 8399 E. Hartford Dr., Scottsdale | Members: free; non-members: $20 |
@@ -52,3 +53,4 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-04-24 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbgc/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-04-25 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
 | Wednesday, 2024-03-27 | [AZ Tech Council: 2nd Quarter VIP Tech Mixer](https://www.aztechcouncil.org/event/2024-march-after5-tech-mixer/) | 8399 E. Hartford Dr., Scottsdale | Members: free; non-members: $20 |
+| Monday, 2024-04-29 |[AI Salon Phoenix](https://lu.ma/misx6g9g)| ASU SkySong, Scottsdale | Free |
