@@ -30,7 +30,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-03-27 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcfbkc/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-03-27 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/299640882/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-03-27 | [AZ Tech Council: after5 Tech Mixer](https://www.aztechcouncil.org/event/2024-march-after5-tech-mixer/) | 8399 E. Hartford Dr., Scottsdale | Members: free; non-members: $20 |
-| Thursday, 2024-03-28 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Thursday, 2024-03-28 |[Venture Café: Healthcare Spotlight](https://venturecafephoenix.org/event/healthcare-spotlight-bridging-the-gap-between-provider-and-patient/) | 850 N. 5th St., Phoenix | Free |
 
 
 # April 2024
@@ -41,7 +41,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Tuesday, 2024-04-02 | [OWASP Phoenix: April Meeting](https://www.meetup.com/owasp-phoenix-chapter/events/299764825/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-04-03 |[Phoenix AI Devs: Community Lightning Talks](https://www.meetup.com/phx-ai-devs/events/299216316/) | Tempe Public Library, Tempe | Free |
 | Wednesday, 2024-04-03 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbfb/) | HeatSync Labs, Mesa | Free |
-| Thursday, 2024-04-04 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Thursday, 2024-04-04 |[Venture Café: Innnovation in Cancer Research and Diagnostics](https://venturecafephoenix.org/event/innnovation-in-cancer-research-and-diagnostics/) | 850 N. 5th St., Phoenix | Free |
 | Saturday, 2024-04-06 |[Out in Tech Phoenix: AIDS Walk & Four Peaks Brewing Company](https://outintech.com/event/out-in-tech-phoenix-aids-walk-5k/) | Tempe Beach Park, Tempe | Free |
 | Wednesday, 2024-04-10 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbnb/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-04-11 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
