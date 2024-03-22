@@ -8,7 +8,7 @@ I've curated local gems by month and update with new events at least weekly. Eac
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-03-11)
+(Last update: 2024-03-21)
 
 # March 2024
 
@@ -33,14 +33,16 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-03-28 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
 
 
-## April 2024
+# April 2024
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
 | Monday, 2024-04-01 |[Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcgbcb/) | Desert Ridge Marketplace, Phoenix | Free |
+| Tuesday, 2024-04-02 | [OWASP Phoenix: April Meeting](https://www.meetup.com/owasp-phoenix-chapter/events/299764825/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-04-03 |[Phoenix AI Devs: Community Lightning Talks](https://www.meetup.com/phx-ai-devs/events/299216316/) | Tempe Public Library, Tempe | Free |
 | Wednesday, 2024-04-03 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbfb/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-04-04 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Saturday, 2024-04-06 |[Out in Tech Phoenix: AIDS Walk & Four Peaks Brewing Company](https://outintech.com/event/out-in-tech-phoenix-aids-walk-5k/) | Tempe Beach Park, Tempe | Free |
 | Wednesday, 2024-04-10 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbnb/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-04-11 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
 | Wednesday, 2024-04-17 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbwb/) | HeatSync Labs, Mesa | Free |
