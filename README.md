@@ -4,7 +4,7 @@ Want to meet interesting people, learn new things, and maybe find a job?
 
 In-person meetups are where it's at!
 
-I've curated local gems by month and update with new events at least weekly. Each one is a real, verified in-person event/meetup/conference/hackathon in the greater Phoenix metro area.
+I hand-curate local gems and update the list usually at least once a week. Each one is a real, verified in-person event/meetup/conference/hackathon in the greater Phoenix metro area.
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
