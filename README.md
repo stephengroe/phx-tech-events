@@ -8,33 +8,9 @@ I hand-curate local gems and update the list usually at least once a week. Each 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-03-21)
+(Last update: 2024-04-04)
 
-# March 2024
-
-| Date | Event | Location | Price |
-| ---- | ----- | -------- | ----- |
-| Sunday/Monday, 2024-03-03/04 | [CodeDay Phoenix: Hackathon](https://event.codeday.org/en-US/phoenix) | Phoenix College, Phoenix | TBA |
-| Monday, 2024-03-04 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/298944974/) | Desert Ridge Marketplace, Phoenix | Free |
-| Tuesday, 2024-03-05 | [OWASP Phoenix: March Meeting](https://www.meetup.com/owasp-phoenix-chapter/events/299251813/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-03-06 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcfbjb/#) | HeatSync Labs, Mesa | Free |
-| Thursday, 2024-03-07 |[Venture Café: (Phoenix’s) NIH: Shaping the Future of Global Health](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
-| Wednesday, 2024-03-13 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcfbrb/) | HeatSync Labs, Mesa | Free |
-| Thursday, 2024-03-14 |[Venture Café: Arizona All-Star Startups!](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
-| Wednesday, 2024-03-20 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcfbbc/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-03-20 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/gnxcktygcfbbc/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-03-20 |[Out in Tech Phoenix: March Social](https://outintech.com/event/out-in-tech-phoenix-march-social/) | Wayward Taphouse, Phoenix | Free |
-| Thursday, 2024-03-21 |[Venture Café: Greater Phoenix – CONNECTED 2024](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
-| Tuesday, 2024-03-26 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcfbjc/) | 51 W 3rd St., Tempe | Free |
-| Tuesday, 2024-03-26 | [How to Grow Your Business with AI and Automation](https://www.meetup.com/business-ai-automation/events/299614627/) (I'm hosting this one!) | Kiln Coworking, Gilbert | Free |
-| Tuesday, 2024-03-26 |[AI Salon Phoenix](https://lu.ma/bj12dchs)| ASU SkySong, Scottsdale | Free |
-| Wednesday, 2024-03-27 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcfbkc/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-03-27 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/299640882/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-03-27 | [AZ Tech Council: after5 Tech Mixer](https://www.aztechcouncil.org/event/2024-march-after5-tech-mixer/) | 8399 E. Hartford Dr., Scottsdale | Members: free; non-members: $20 |
-| Thursday, 2024-03-28 |[Venture Café: Healthcare Spotlight](https://venturecafephoenix.org/event/healthcare-spotlight-bridging-the-gap-between-provider-and-patient/) | 850 N. 5th St., Phoenix | Free |
-
-
-# April 2024
+## April 2024
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
@@ -54,3 +30,17 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-04-25 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
 | Wednesday, 2024-03-27 | [AZ Tech Council: 2nd Quarter VIP Tech Mixer](https://www.aztechcouncil.org/event/2024-march-after5-tech-mixer/) | 8399 E. Hartford Dr., Scottsdale | Members: free; non-members: $20 |
 | Monday, 2024-04-29 |[AI Salon Phoenix](https://lu.ma/misx6g9g)| ASU SkySong, Scottsdale | Free |
+
+## May 2024
+
+| Date | Event | Location | Price |
+| ---- | ----- | -------- | ----- |
+| Thursday, 2024-05-02 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Monday, 2024-05-06 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygchbjb/) | Desert Ridge Marketplace, Phoenix | Free |
+| Thursday, 2024-05-09 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Tuesday, 2024-05-14 | [2024 Cybersecurity Summit](https://www.aztechcouncil.org/event/2024-cybersecurity-summit/) | 2600 W. Camelback Rd., Phoenix | Members: $50; non-members: $65 |
+| Wednesday, 2024-05-15 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/gnxcktygchbtb/) | HeatSync Labs, Mesa | Free |
+| Thursday, 2024-05-16 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Thursday, 2024-05-23 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Tuesday, 2024-05-28 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygchblc/) | 51 W 3rd St., Tempe | Free |
+| Thursday, 2024-05-30 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
