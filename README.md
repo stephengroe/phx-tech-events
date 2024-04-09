@@ -28,6 +28,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-04-18 |[Venture Café: VCPHX 100th Celebration](https://venturecafephoenix.org/event/vcphx-100th-celebration/) | 850 N. 5th St., Phoenix | Free |
 | Tuesday, 2024-04-23 |[azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcgbfc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-04-24 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbgc/) | HeatSync Labs, Mesa | Free |
+| Wednesday, 2024-03-24 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/300263969/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-04-25 |[Venture Café: The Big Pitch Competition](https://venturecafephoenix.org/event/the-big-pitch-competition-2/) | 850 N. 5th St., Phoenix | Free |
 | Wednesday, 2024-03-27 | [AZ Tech Council: 2nd Quarter VIP Tech Mixer](https://www.aztechcouncil.org/event/2024-march-after5-tech-mixer/) | 8399 E. Hartford Dr., Scottsdale | Members: free; non-members: $20 |
 | Monday, 2024-04-29 |[AI Salon Phoenix](https://lu.ma/misx6g9g)| ASU SkySong, Scottsdale | Free |
