@@ -8,7 +8,7 @@ I hand-curate local gems and update the list often, usually weekly. Each one is 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-04-17)
+(Last update: 2024-04-18)
 
 ## April 2024
 
@@ -29,6 +29,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-04-18 | [GDG Phoenix: Build with AI Workshop/Hackathon](https://www.meetup.com/phx-android/events/300283680/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-04-18 | [Ruby::AZ: Introduction to Turbo in Rails 7](https://www.meetup.com/ruby-az/events/300435419/) | 2501 N Arizona Ave, Chandler | Free |
 | Thursday, 2024-04-18 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/vsnwjtygckbxb/) | Showit, Inc., Chandler | Free |
+| Thursday, 2024-04-18 | [Phoenix Emerging Tech: What is Encryption?](https://www.meetup.com/phxmobi/events/300440936/) | ASU Chandler Innovation Center, Chandler | Free |
 | Tuesday, 2024-04-23 |[azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcgbfc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-04-24 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygcgbgc/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-04-24 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/300263969/) | HeatSync Labs, Mesa | Free |
