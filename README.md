@@ -23,8 +23,10 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Tuesday, 2024-05-14 | [2024 Cybersecurity Summit](https://www.aztechcouncil.org/event/2024-cybersecurity-summit/) | 2600 W. Camelback Rd., Phoenix | Members: $50; non-members: $65 |
 | Wednesday, 2024-05-15 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygchbtb/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-05-15 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/gnxcktygchbtb/) | HeatSync Labs, Mesa | Free |
+| Thursday, 2024-05-16| [Phoenix Emerging Tech: Web dev to Spatial Computing and AI](https://www.meetup.com/phxmobi/events/300723925/) | ASU Chandler Innovation Center, Chandler | Free |
 | Thursday, 2024-05-16 |[Venture Café: NextGen Trailblazers: Future World Changers](https://venturecafephoenix.org/event/nextgen-trailblazers-future-world-changers/) | 850 N. 5th St., Phoenix | Free |
 | Thursday, 2024-05-16 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/299246018/) | CO+HOOTS Coworking, Phoenix | Free |
+| Monday, 2024-05-20 |[AI Salon Phoenix](https://lu.ma/aisalon-phoenix-may2024)| ASU SkySong, Scottsdale | Free |
 | Wednesday, 2024-05-22 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygchbdc/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-05-23 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
 | Tuesday, 2024-05-28 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygchblc/) | 51 W 3rd St., Tempe | Free |
@@ -47,6 +49,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-06-19 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/gnxcktygcjbzb/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-06-20 |[Venture Café: Masters of Innovation Summer Series](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-3/) | 850 N. 5th St., Phoenix | Free |
 | Thursday, 2024-06-20 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/299246021/) | Showit, Inc., Chandler | Free |
+| Tuesday, 2024-06-25 |[AI Salon Phoenix](https://lu.ma/aisalon-phoenix-may2024)| ASU SkySong, Scottsdale | Free |
 | Tuesday, 2024-06-25 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygcjbhc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-06-26 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/wbmfltygcjbjc/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-06-27 |[Venture Café: Hackathon & Pitch Competition](https://venturecafephoenix.org/event/thursday-gathering-hackathon-pitch-competition-w-the-city-of-phoenix/) | 850 N. 5th St., Phoenix | Free |
