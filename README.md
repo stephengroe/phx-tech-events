@@ -8,7 +8,7 @@ I hand-curate local gems and update the list often, usually weekly. Each one is 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-05-07)
+(Last update: 2024-05-22)
 
 ## May 2024
 
@@ -28,13 +28,12 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-05-16 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/299246018/) | CO+HOOTS Coworking, Phoenix | Free |
 | Monday, 2024-05-20 |[AI Salon Phoenix](https://lu.ma/aisalon-phoenix-may2024)| ASU SkySong, Scottsdale | Free |
 | Wednesday, 2024-05-22 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygchbdc/) | HeatSync Labs, Mesa | Free |
-| Thursday, 2024-05-23 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Thursday, 2024-05-23 |[Venture Café: The Future of Battery Technology](https://venturecafephoenix.org/event/the-future-of-battery-technology/) | 850 N. 5th St., Phoenix | Free |
 | Tuesday, 2024-05-28 | [azPHP Meetup](https://www.meetup.com/azphpug/events/mgffhtygchblc/) | 51 W 3rd St., Tempe | Free |
 | Wednesday, 2024-05-29 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/mclbhtygchbmc/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-05-29 |[Phoenix AI Devs: Retrieval-Augmented Generation (RAG)](https://www.meetup.com/phx-ai-devs/events/300118616/) | Tempe Public Library, Tempe | Free |
 | Wednesday, 2024-05-29 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/300890765/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-05-30 |[Venture Café: Innovation Bridge: Spotlight on Taiwan’s BioTech Ecosystem](https://venturecafephoenix.org/event/innovation-bridge-spotlight-on-taiwans-biotech-ecosystem/) | 850 N. 5th St., Phoenix | Free |
-
 
 ## June 2024
 
@@ -42,7 +41,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | ---- | ----- | -------- | ----- |
 | Monday, 2024-06-03 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcjbfb/) | Desert Ridge Marketplace, Phoenix | Free |
 | Wednesday, 2024-06-05 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/wbmfltygcjbhb/) | HeatSync Labs, Mesa | Free |
-| Thursday, 2024-06-06 |[Venture Café: TBD](https://venturecafephoenix.org/) | 850 N. 5th St., Phoenix | Free |
+| Thursday, 2024-06-06 |[Venture Café: Masters of Innovation Summer Series](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-5/) | 850 N. 5th St., Phoenix | Free |
 | Wednesday, 2024-06-12 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/wbmfltygcjbqb/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-06-13 |[Venture Café: Masters of Innovation Summer Series](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-2/) | 850 N. 5th St., Phoenix | Free |
 | Wednesday, 2024-06-19 |[Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/wbmfltygcjbzb/) | HeatSync Labs, Mesa | Free |
