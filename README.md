@@ -11,6 +11,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 (Last update: 2024-06-18)
 
 ## June 2024
+
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
 | Monday, 2024-06-03 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcjbfb/) | Desert Ridge Marketplace, Phoenix | Free |
@@ -30,6 +31,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-06-27 |[Venture Café: Hackathon & Pitch Competition](https://venturecafephoenix.org/event/thursday-gathering-hackathon-pitch-competition-w-the-city-of-phoenix/) | 850 N. 5th St., Phoenix | Free |
 
 ## July 2024
+
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
 | Thursday, 2024-07-11 |[Venture Café: Masters of Innovation Summer Series – Infrastructure Genius](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-4/) | 850 N. 5th St., Phoenix | Free |
