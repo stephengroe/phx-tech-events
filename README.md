@@ -10,7 +10,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 
 (Last update: 2024-06-26)
 
-# June 2024
+## June 2024
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
@@ -33,7 +33,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-06-26 |[Phoenix AI Devs: Security for Gen AI](https://www.meetup.com/phx-ai-devs/events/301198115/) | Tempe Public Library, Tempe | Free |
 | Thursday, 2024-06-27 |[Venture Café: Hackathon & Pitch Competition](https://venturecafephoenix.org/event/thursday-gathering-hackathon-pitch-competition-w-the-city-of-phoenix/) | 850 N. 5th St., Phoenix | Free |
 
-# July 2024
+## July 2024
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
