@@ -6,7 +6,7 @@ In-person meetups are where it's at!
 
 I hand-curate local gems and update the list often, usually weekly. Each one is a real, verified in-person event/meetup/conference/hackathon in the greater Phoenix metro area.
 
-Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know or make a pull request!
+Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
 (Last update: 2024-07-07)
 
