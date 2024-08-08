@@ -37,7 +37,6 @@ Check out the next two months (listed below) or find future months in the repo. 
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
-
 | Monday, 2024-09-02 | [PhxJS: Monday Afternoon JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/fghmmtygcmbdb/) | Beanchain Coffee, Mesa | Free |
 | Monday, 2024-09-02 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcmbdb/) | Desert Ridge Marketplace, Phoenix | Free |
 | Thursday, 2024-09-05 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/300789251/) | Beer Research Institute, Mesa | Free |
