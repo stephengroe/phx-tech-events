@@ -8,28 +8,7 @@ I hand-curate local gems and update the list often, usually weekly. Each one is 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-07-28)
-
-## July 2024
-
-| Date | Event | Location | Price |
-| ---- | ----- | -------- | ----- |
-| Monday, 2024-07-01 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/301309320/) | Desert Ridge Marketplace, Phoenix | Free |
-| Tuesday, 2024-07-02 | [OWASP Phoenix: July Meeting](https://www.meetup.com/owasp-phoenix-chapter/events/301825575/) | HeatSync Labs, Mesa | Free |
-| Monday, 2024-07-08 | [PhxJS: Monday Afternoon JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/301965572/) | Beanchain Coffee, Mesa | Free |
-| Wednesday, 2024-07-10 |[Phoenix React](https://www.meetup.com/phoenix-reactjs/events/302021634/) | The Crown Room, Tempe | Free |
-| Thursday, 2024-07-11 |[Venture Café: Masters of Innovation Summer Series – Infrastructure Genius](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-4/) | 850 N. 5th St., Phoenix | Free |
-| Thursday, 2024-07-11 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/298701981/) | Beer Research Institute, Mesa | Free |
-| Wednesday, 2024-07-17 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/301333994/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-07-17 | [Ethical Spectacle: AI Technical Workshop](https://www.meetup.com/ethical-spectacle-research/events/301531379/) | 850 PBC, Phoenix | Free |
-| Thursday, 2024-07-18 |[Venture Café: Masters of Innovation Summer Series – Financial Savvy](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-6/) | 850 N. 5th St., Phoenix | Free |
-| Thursday, 2024-07-18 | [AZ WordPress: Boost Your WordPress Performance with Perfmatters](https://www.meetup.com/arizona-wordpress-group/events/299944606/) | 100 S Mill Ave, Tempe | Free |
-| Thursday, 2024-07-18 | [Ruby::AZ: Implementing RAG in Rails](https://www.meetup.com/ruby-az/events/302201104/) | StrongMind, Chandler | Free |
-| Monday, 2024-07-22 | [PhxJS: Monday Afternoon JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/fghmmtygckbdc/) | Beanchain Coffee, Mesa | Free |
-| Tuesday, 2024-07-23 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygckbfc/) | Cornish Pasty Co, Mesa | Free |
-| Thursday, 2024-07-25 |[Venture Café: Masters of Innovation Summer Series - Evolution of Leadership](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-7/) | 850 N. 5th St., Phoenix | Free |
-| Wednesday, 2024-07-31 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/301948325/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2024-07-31 | [Ethical Spectacle: AI Technical Workshop](https://www.meetup.com/ethical-spectacle-research/events/zmljmtygckbpc/) | 850 PBC, Phoenix | Free |
+(Last update: 2024-08-07)
 
 ## August 2024
 
@@ -53,3 +32,18 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-08-28 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/) | HeatSync Labs, Mesa | Free |
 | Wednesday, 2024-08-28 | [Ethical Spectacle: AI Technical Workshop](https://www.meetup.com/ethical-spectacle-research/events/zmljmtygclblc/) | 850 PBC, Phoenix | Free |
 | Thursday, 2024-08-29 |[Venture Café: Masters of Innovation Summer Series – Messaging & Social Media Mastery](https://venturecafephoenix.org/event/masters-of-innovation-summer-series-12/) | 850 N. 5th St., Phoenix | Free |
+
+## September 2024
+
+| Date | Event | Location | Price |
+| ---- | ----- | -------- | ----- |
+
+| Monday, 2024-09-02 | [PhxJS: Monday Afternoon JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/fghmmtygcmbdb/) | Beanchain Coffee, Mesa | Free |
+| Monday, 2024-09-02 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcmbdb/) | Desert Ridge Marketplace, Phoenix | Free |
+| Thursday, 2024-09-05 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/300789251/) | Beer Research Institute, Mesa | Free |
+| Wednesday, 2024-09-11 | [Ethical Spectacle: AI Technical Workshop](https://www.meetup.com/ethical-spectacle-research/events/302396840/) | 850 PBC, Phoenix | Free |
+| Wednesday, 2024-09-18 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/nvncmtygcmbxb/) | HeatSync Labs, Mesa | Free |
+| Thursday, 2024-09-19 |[Phoenix AI Devs: Topic TBD](https://www.meetup.com/phx-ai-devs/events/301977724/) | Industrious, Phoenix | Free |
+| Tuesday, 2024-09-24 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygcmbgc/) | Cornish Pasty Co, Mesa | Free |
+| Wednesday, 2024-09-25 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/) | HeatSync Labs, Mesa | Free |
+| Thursday, 2024-09-26 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/wcbfmtygcmbzb/) | 100 S Mill Ave, Tempe | Free |
