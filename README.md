@@ -12,7 +12,6 @@ Check out the next two months (listed below) or find future months in the repo. 
 
 ## August 2024
 
-
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
 | Thursday, 2024-08-01 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/300789248/) | Beer Research Institute, Mesa | Free |
