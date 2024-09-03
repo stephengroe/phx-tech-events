@@ -8,7 +8,7 @@ I hand-curate local gems and update the list often, usually weekly. Each one is 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-09-01)
+(Last update: 2024-09-02)
 
 ## September 2024
 
@@ -20,7 +20,7 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2024-09-11 | [Ethical Spectacle: AI Technical Workshop](https://www.meetup.com/ethical-spectacle-research/events/302396840/) | 850 PBC, Phoenix | Free |
 | Monday, 2024-09-16| [PhxJS: Monday Afternoon JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/fghmmtygcmbvb) | Beanchain Coffee, Mesa | Free |
 | Wednesday, 2024-09-18 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/nvncmtygcmbxb/) | HeatSync Labs, Mesa | Free |
-| Thursday, 2024-09-19 |[Phoenix AI Devs: Topic TBD](https://www.meetup.com/phx-ai-devs/events/301977724/) | Industrious, Phoenix | Free |
+| Thursday, 2024-09-19 |[Phoenix AI Devs: Vector Search with Google's Vertex AI](https://www.meetup.com/phx-ai-devs/events/301977724/) | Industrious, Phoenix | Free |
 | Tuesday, 2024-09-24 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygcmbgc/) | Cornish Pasty Co, Mesa | Free |
 | Wednesday, 2024-09-25 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-09-26 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/wcbfmtygcmbzb/) | 100 S Mill Ave, Tempe | Free |
