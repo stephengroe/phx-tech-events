@@ -8,7 +8,7 @@ I hand-curate local gems and update the list often, usually weekly. Each one is 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2024-09-05)
+(Last update: 2024-09-08)
 
 ## September 2024
 
@@ -34,5 +34,5 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Monday, 2024-10-07 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcnbkb/) | Desert Ridge Marketplace, Phoenix | Free |
 | Wednesday, 2024-10-16 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/nvncmtygcnbvb/) | HeatSync Labs, Mesa | Free |
 | Thursday, 2024-10-17 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/wcbfmtygcnbwb/) | 100 S Mill Ave, Tempe | Free |
-| Tuesday, 2024-10-22 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygcnbdc/) | 51 W 3rd St., Tempe | Free |
+| Tuesday, 2024-10-22 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygcnbdc/) | Cornish Pasty Co, Mesa | Free |
 | Wednesday, 2024-10-30 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/) | HeatSync Labs, Mesa | Free |
