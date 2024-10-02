@@ -20,3 +20,13 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Thursday, 2024-10-17 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/wcbfmtygcnbwb/) | 100 S Mill Ave, Tempe | Free |
 | Tuesday, 2024-10-22 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygcnbdc/) | Cornish Pasty Co, Mesa | Free |
 | Wednesday, 2024-10-30 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/) | HeatSync Labs, Mesa | Free |
+
+## November 2024
+
+| Date | Event | Location | Price |
+| ---- | ----- | -------- | ----- |
+| Thursday, 2024-11-07 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/lcjxdtygcpbkb/) | Beer Research Institute, Mesa | Free |
+| Monday, 2024-11-04 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtygcpbgb/) | Desert Ridge Marketplace, Phoenix | Free |
+| Thursday, 2024-11-07 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/lcjxdtygcpbkb/) | Beer Research Institute, Mesa | Free |
+| Thursday, 2024-11-21 | [AZ WordPress: Advanced WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/302200970/) | 100 S Mill Ave, Tempe | Free |
+| Tuesday, 2024-11-26 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltygcpbjc/) | Cornish Pasty Co, Mesa | Free |
