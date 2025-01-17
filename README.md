@@ -20,4 +20,13 @@ Check out the next two months (listed below) or find future months in the repo. 
 | Wednesday, 2025-01-15 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/305508663/) | HeatSync Labs, Mesa | Free |
 | Tuesday, 2025-01-28 | [azPHP Meetup](https://www.meetup.com/azphpug/events/305510610/) | Cornish Pasty Co, Mesa | Free |
 | Wednesday, 2025-01-29 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/305366455/) | HeatSync Labs, Mesa | Free |
+| Friday, 2025-01-31 | [Phoenix TypeScript: HalfStack Phoenix 2025](https://www.meetup.com/phoenix-typescript/events/304669637/) | Majestic Gilbert 8, Gilbert | $275 |
 
+## February 2025
+
+| Date | Event | Location | Price |
+| ---- | ----- | -------- | ----- |
+| Thursday, 2025-02-06 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/304683218/) | Beer Research Institute, Mesa | Free |
+| Monday, 2025-02-03 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/305476465/) | Desert Ridge Marketplace, Phoenix | Free |
+| Wednesday, 2025-02-05 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/wbmfltyhcdbhb/) | HeatSync Labs, Mesa | Free |
+| Tuesday, 2025-02-25 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltyhcdbhc/) | Cornish Pasty Co, Mesa | Free |
