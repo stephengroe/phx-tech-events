@@ -8,25 +8,27 @@ I hand-curate local gems and update the list often, usually weekly. Each one is 
 
 Check out the next two months (listed below) or find future months in the repo. Don't see your favorite event? Let me know and I'll add it!
 
-(Last update: 2025-01-17)
+(Last update: 2025-03-21)
 
-## January 2025
-
-| Date | Event | Location | Price |
-| ---- | ----- | -------- | ----- |
-| Thursday, 2025-01-02 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/304683214/) | Beer Research Institute, Mesa | Free |
-| Monday, 2025-01-06 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/304887654/) | Desert Ridge Marketplace, Phoenix | Free |
-| Wednesday, 2025-01-08 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/305167060/) | HeatSync Labs, Mesa | Free |
-| Wednesday, 2025-01-15 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/305508663/) | HeatSync Labs, Mesa | Free |
-| Tuesday, 2025-01-28 | [azPHP Meetup](https://www.meetup.com/azphpug/events/305510610/) | Cornish Pasty Co, Mesa | Free |
-| Wednesday, 2025-01-29 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/305366455/) | HeatSync Labs, Mesa | Free |
-| Friday, 2025-01-31 | [Phoenix TypeScript: HalfStack Phoenix 2025](https://www.meetup.com/phoenix-typescript/events/304669637/) | Majestic Gilbert 8, Gilbert | $275 |
-
-## February 2025
+## March 2025
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
-| Thursday, 2025-02-06 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/304683218/) | Beer Research Institute, Mesa | Free |
-| Monday, 2025-02-03 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/305476465/) | Desert Ridge Marketplace, Phoenix | Free |
-| Wednesday, 2025-02-05 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/wbmfltyhcdbhb/) | HeatSync Labs, Mesa | Free |
-| Tuesday, 2025-02-25 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltyhcdbhc/) | Cornish Pasty Co, Mesa | Free |
+| Monday, 2025-03-03 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/306128376/) | Desert Ridge Marketplace, Phoenix | Free |
+| Wednesday, 2025-03-05 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/306388117/) | HeatSync Labs, Mesa | Free |
+| Thursday, 2025-03-06 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/304683226/) | Beer Research Institute, Mesa | Free |
+| Wednesday, 2025-03-19 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/306444249/) | HeatSync Labs, Mesa | Free |
+| Tuesday, 2025-03-25 | [azPHP Meetup](https://www.meetup.com/azphpug/events/306417899/) | Cornish Pasty Co, Mesa | Free |
+| Wednesday, 2025-03-26 | [Arizona Codes: Leetcode Practice](https://www.meetup.com/arizona-codes/events/306543682/) | HeatSync Labs, Mesa | Free |
+
+## April 2025
+
+| Date | Event | Location | Price |
+| ---- | ----- | -------- | ----- |
+| Tuesday, 2025-04-01 | [Cowork With Friends: Downtown Phoenix](https://coworkwithfriends.com/group/downtown-phx/) | The McKinley Club, Phoenix | Free |
+| Wednesday, 2025-04-02 | [Coffee & Coworking](https://www.meetup.com/coffee-and-coworking-east-valley/events/306704310/) | HeatSync Labs, Mesa | Free |
+| Thursday, 2025-04-03 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/304683239/) | Beer Research Institute, Mesa | Free |
+| Monday, 2025-04-07 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/306528458/) | Desert Ridge Marketplace, Phoenix | Free |
+| Thursday, 2025-04-10 | [AZ WordPress: WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/306725022/) | CO+HOOTS, Mesa | Free |
+| Wednesday, 2025-04-16 | [PhxJS: JavaScript Workshop](https://www.meetup.com/phoenix-javascript/events/305919969/) | HeatSync Labs, Mesa | Free |
+| Tuesday, 2025-04-22 | [azPHP Meetup](https://www.meetup.com/azphpug/events/vqdnltyhcgbdc/) | Cornish Pasty Co, Mesa | Free |
