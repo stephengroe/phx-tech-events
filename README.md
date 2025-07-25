@@ -21,7 +21,8 @@ Check out the next two months (listed below) or find future months in the repo. 
 
 | Date | Event | Location | Price |
 | ---- | ----- | -------- | ----- |
-| Thursday, 2024-08-07 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/307673994/) | Hundred Mile Brewing Company, Tempe | Free |
+| Monday, 2025-08-04 | [Web Design & Development: Round Table](https://www.meetup.com/webdesignersdevelopers/events/wdnrjtyhclbgb/) | Desert Ridge Marketplace, Phoenix | Free |
+| Thursday, 2025-08-07 | [EVSec: Security & Beer](https://www.meetup.com/evsecaz/events/307673994/) | Hundred Mile Brewing Company, Tempe | Free |
 | Thursday, 2025-08-14 | [AZ WordPress: WordPress Meetup](https://www.meetup.com/arizona-wordpress-group/events/rsfhrtyhclbsb/) | CO+HOOTS, Mesa | Free |
 | Thursday, 2025-08-14 | [Hardware Happy Hour Phoenix](https://www.meetup.com/hardware-happy-hour-3h-phoenix/events/309610386) | Gateway Community College, Phoenix | Free |
 | Wednesday, 2025-08-20 | [PhxJS: TBA](https://www.meetup.com/phoenix-javascript/events/310077067/) | HeatSync Labs, Mesa | Free |
